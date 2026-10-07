@@ -1,6 +1,6 @@
 # RFM-Analysis
 ## My exercise note
-- item 1
+- How to count RFM
 - item 2
 - item 3
 **end**
